@@ -59,6 +59,18 @@
 	margin-top: -10px;
 	font-family: monospace;
 }
+.drdn{
+	padding: 0 10px;
+    letter-spacing: 2px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 17px;
+    text-shadow: 2px 4px 4px dodgerblue;
+}
+.color{
+	color: darkorange;
+}
 .d{
 	margin-right: 80px;
 }
