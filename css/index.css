@@ -7,7 +7,7 @@
   position: fixed;
   width: 100%;
   height: 100%;
-  background: #fff url('https://www.animatedimages.org/data/media/298/animated-eat-and-drink-image-0108.gif')
+  background: #fff url('https://www.animatedimages.org/data/media/707/animated-welcome-image-0112.gif')
   no-repeat center;
   z-index: 10000;;
  
@@ -212,6 +212,7 @@
 	font-size: 18px;
 	letter-spacing: 1px;
 	line-height: 36px;
+	padding-bottom: 54px;
 }
 .mainfooter{
 	background: #006780;

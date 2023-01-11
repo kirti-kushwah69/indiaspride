@@ -3,13 +3,14 @@
 	padding: 0;
 	box-sizing: border-box;
 }
+
 .gwal{
 	font-size: 16px;
     margin-top: -18px;
     font-family: monospace;
     text-transform: capitalize;
     color: #006780;
-    /*text-align: justify;*/
+    text-align: justify;
     /*line-height: 20px;*/
 }
 .img3{
@@ -29,6 +30,7 @@
 }
 @media(max-width: 768px){
 	.img3{
+        width: 95%;
 		margin-top: 28px;
 	}
 }
